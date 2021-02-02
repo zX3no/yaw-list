@@ -1,15 +1,12 @@
 # Yaw-List
 Converting sensitivity `Game 1 Sens * Game 1 Yaw ÷ Game 2 Yaw = Game 2 Sens` 
 e.g.: Quake 1.5 sensitvity to Overwatch is: `1.5 * 0.022 ÷ 0.0066 = 5`
-<br>
-<br>
+
 Calculating yaw from [mouse-sensitivity.com](www.mouse-sensitivity.com): `s1 * y1 / s2 = y2`
 <s>[Jscalc converter for this ^](https://jscalc.io/calc/a4CZLqNmeENb1tsz)</s>
-<br>
-<br>
+
 Some of these values were measured incorrectly so I'll need to remeasure them.
-<br>
-<br>
+
 Since `1 * 0.022 = 0.022`, use `y1 / s2 = y2` instead
 
 CS/Apex/Quake/Half-Life/Titanfall/Doom: `0.022`
@@ -36,6 +33,12 @@ Risk of Rain 2: `0.5`
 
 Satisfactory: `2.4997` TODO
 
-Sea of Thieves: `  0.03645106903225806452`TODO
+Sea of Thieves: `0.03645106903225806452` TODO
+
+Battlefront 2: `2.02970753759571916228` TODO
+
+Tom Clancy's Rainbow Six Siege (MouseYawSensitivity=50): `14.323947`
+
+The Witcher 3: Wild Hunt: `0.3`
 
 Need to look at: https://jscalc.io/embed/za5TQmMatqU4kXSR
