@@ -2,9 +2,11 @@
 Converting sensitivity `Game 1 Sens * Game 1 Yaw ÷ Game 2 Yaw = Game 2 Sens` 
 e.g.: Quake 1.5 sensitvity to Overwatch is: `1.5 * 0.022 ÷ 0.0066 = 5`
 \
+\
 Calculating yaw from [mouse-sensitivity.com](www.mouse-sensitivity.com): `s1 * y1 / s2 = y2`
-<s>[Jscalc converter for this ^](https://jscalc.io/calc/a4CZLqNmeENb1tsz)</s>
+<s>[Jscalc converter for this ^](https://jscalc.io/calc/a4CZLqNmeENb1tsz)</s>\
 Since `1 * 0.022 = 0.022`, use `y1 / s2 = y2` instead
+\
 \
 \
 \
