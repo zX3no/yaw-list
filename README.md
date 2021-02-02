@@ -5,9 +5,9 @@ e.g.: Quake 1.5 sensitvity to Overwatch is: `1.5 * 0.022 ÷ 0.0066 = 5`
 Calculating yaw from [mouse-sensitivity.com](www.mouse-sensitivity.com): `s1 * y1 / s2 = y2`
 <s>[Jscalc converter for this ^](https://jscalc.io/calc/a4CZLqNmeENb1tsz)</s>
 
-Jscalc is not for me
-
 Since `1 * 0.022 = 0.022`, use `y1 / s2 = y2` instead
+
+
 
 CS/Apex/Quake/Half-Life/Titanfall: `0.022`
 
@@ -26,5 +26,7 @@ Battlefield 4/5/1: `4.78364861926505762122` TODO test
 Cyberpunk 2077: `0.1`
 
 Call of Duty: Modern Warfare (2019) / Warzone: `0.00660066006600660066`
+
+
 
 Need to look at: https://jscalc.io/embed/za5TQmMatqU4kXSR
