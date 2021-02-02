@@ -8,8 +8,6 @@ Calculating yaw from [mouse-sensitivity.com](www.mouse-sensitivity.com): `s1 * y
 Since `1 * 0.022 = 0.022`, use `y1 / s2 = y2` instead
 \
 \
-\
-\
 CS/Apex/Quake/Half-Life/Titanfall: `0.022`
 
 Overwatch: `0.0066`
