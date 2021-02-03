@@ -41,4 +41,10 @@ Tom Clancy's Rainbow Six Siege (MouseYawSensitivity=50): `14.323947`
 
 The Witcher 3: Wild Hunt: `0.3`
 
+Planetside 2: `0.55776746190705575134`
+
+
+
+My 360/cm: `38.1038`
+
 Need to look at: https://jscalc.io/embed/za5TQmMatqU4kXSR
